@@ -64,9 +64,9 @@
 
 - ✅ **가독성 있는 코드**
 - ✅ **설계 의도를 설명할 수 있는 구조**
+
 - ✅ **측정과 검증이 가능한 결과**
 - ✅ 단기 성과보다 **지속 가능한 구조**
-
 ---
 
 ## 🌱 Currently Learning
@@ -80,11 +80,11 @@
 ## 📫 Contact
 
 - GitHub: https://github.com/your-id
-- wow
+- Email:ledw8992@example.com
 
 ---
 
-> “완벽하지 않아도 끝까지 완성하는 개발자”
+> “완벽하게 끝까지 완성하는 개발자”
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
